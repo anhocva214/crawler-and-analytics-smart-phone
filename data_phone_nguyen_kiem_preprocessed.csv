@@ -54,7 +54,7 @@
 52,Samsung, Samsung Galaxy Z Fold 3 5G  ,0.0,0,38990000,41990000,Mới,SM-F926B,Bạc,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),12,256,android
 53,Nokia, Nokia G10  Xanh,0.0,0,3690000,3690000,Mới,G10,Xanh Thiên Hà,Nokia,Trung Quốc,12 tháng,Nguyễn Kim,Mediatek G25 8x A53 2.0GHz,4,64,android
 54,Samsung, Samsung Galaxy Z Fold 3 5G  ,0.0,0,38990000,41990000,Mới,SM-F926B,Xanh Lá,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),12,256,android
-55,iPhone, iPhone 13 Pro Max 128GB ,0.0,0,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Vàng Đồng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
+55,iPhone, iPhone 13 Pro Max  ,0.0,0,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Vàng Đồng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
 56,Samsung, Samsung Galaxy Z Flip 3 5G  ,0.0,0,26990000,26990000,Mới,SM-F711B,Tím,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),8,256,android
 57,Samsung, Samsung Galaxy Z Fold 3 5G  ,0.0,0,43990000,44990000,Mới,SM-F926B,Bạc,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),12,512,android
 58,iPhone, iPhone 13 Pro Max  ,0.0,0,36990000,37990000,Mới,iPhone 13 Pro Max 256GB,Bạc,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
@@ -66,26 +66,26 @@
 65,Samsung, Samsung Galaxy Z Flip 3 5G  ,0.0,0,26990000,26990000,Mới,SM-F711B,Kem,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),8,256,android
 67,Samsung, Samsung Galaxy Z Flip 3 5G  ,0.0,0,26990000,26990000,Mới,SM-F711B,Xanh Lá,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),8,256,android
 68,Samsung, Samsung Galaxy Z Flip 3 5G  ,0.0,0,22990000,24990000,Mới,SM-F711B,Xanh Lá,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),8,128,android
-69,iPhone, iPhone 13 256GB ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Hồng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
+69,iPhone, iPhone 13  ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Hồng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
 70,Samsung, Samsung Galaxy Z Flip 3 5G  ,0.0,0,22990000,24990000,Mới,SM-F711B,Đen,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),8,128,android
 71,iPhone, iPhone 13 Pro  ,0.0,0,29990000,30990000,Mới,iPhone 13 Pro 128GB,Bạc,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,128,ios
-72,iPhone, iPhone 13 256GB ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Đỏ,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
-73,iPhone, iPhone 13 256GB ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
-74,iPhone, iPhone 13 Pro Max 128GB ,5.0,1,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Xám,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
+72,iPhone, iPhone 13  ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Đỏ,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
+73,iPhone, iPhone 13  ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
+74,iPhone, iPhone 13 Pro Max  ,5.0,1,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Xám,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
 75,Samsung, Samsung Galaxy Z Fold 3 5G  ,0.0,0,38990000,41990000,Mới,SM-F926B,Đen,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Qualcomm SM8350 Snapdragon 888 (5 nm),12,256,android
 76,iPhone, iPhone 13 mini  ,0.0,0,21490000,21990000,Mới,iPhone 13 Mini 128GB,Trắng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
-77,iPhone, iPhone 13 Pro Max 128GB ,0.0,0,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Bạc,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
+77,iPhone, iPhone 13 Pro Max  ,0.0,0,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Bạc,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
 78,iPhone, iPhone 13 Pro  ,5.0,1,29990000,30990000,Mới,iPhone 13 Pro 128GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,128,ios
-79,iPhone, iPhone 13 Pro Max 512GB ,0.0,0,42990000,43990000,Mới,iPhone 13 Pro Max 512GB,Vàng Đồng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
-80,iPhone, iPhone 13 256GB ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Trắng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
+79,iPhone, iPhone 13 Pro Max  ,0.0,0,42990000,43990000,Mới,iPhone 13 Pro Max 512GB,Vàng Đồng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
+80,iPhone, iPhone 13  ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Trắng,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
 81,iPhone, iPhone 13 mini  ,0.0,0,21490000,21990000,Mới,iPhone 13 Mini 128GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
-82,iPhone, iPhone 13 256GB ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Đen,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
+82,iPhone, iPhone 13  ,0.0,0,27490000,27990000,Mới,iPhone 13 256GB,Đen,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
 83,iPhone, iPhone 13 Pro Max 1TB ,0.0,0,48990000,49990000,Mới,iPhone 13 Pro Max 1TB,Xám,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
 84,iPhone, iPhone 13 Pro Max 1TB ,0.0,0,48990000,49990000,Mới,iPhone 13 Pro Max 1TB,Bạc,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
 87,iPhone, iPhone 13 mini  ,0.0,0,21490000,21990000,Mới,iPhone 13 Mini 128GB,Đỏ,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,4,128,ios
-89,iPhone, iPhone 13 Pro Max 512GB ,0.0,0,42990000,43990000,Mới,iPhone 13 Pro Max 512GB,Xám,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
-90,iPhone, iPhone 13 Pro Max 128GB ,0.0,0,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
-92,iPhone, iPhone 13 Pro 512GB ,0.0,0,39990000,40990000,Mới,iPhone 13 Pro 512GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
+89,iPhone, iPhone 13 Pro Max  ,0.0,0,42990000,43990000,Mới,iPhone 13 Pro Max 512GB,Xám,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
+90,iPhone, iPhone 13 Pro Max  ,0.0,0,32990000,33990000,Mới,iPhone 13 Pro Max 128GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
+92,iPhone, iPhone 13 Pro  ,0.0,0,39990000,40990000,Mới,iPhone 13 Pro 512GB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
 93,iPhone, iPhone 13 Pro Max 1TB ,0.0,0,48990000,49990000,Mới,iPhone 13 Pro Max 1TB,Xanh Dương,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A15 Bionic,6,256,ios
 94,Samsung, Samsung Galaxy A22  ,0.0,0,4690000,5890000,Mới,A22 (SM-A225F/DS),Tím,Samsung,Việt Nam,12 tháng,Nguyễn Kim,"Bộ vi xử lí tám nhân, xung nhịp tối đa 2GHz",6,128,android
 95,Samsung, Samsung Galaxy S21 Ultra 5G  ,5.0,3,20990000,30990000,Mới,SM-G998B/DS,Đen,Samsung,Việt Nam,12 tháng,Nguyễn Kim,Vi xử lý Exynos 2100 (5nm),12,128,android
@@ -93,13 +93,13 @@
 97,iPhone, iPhone 12 Pro  ,0.0,0,28990000,34990000,Mới,IPHONE 12 PRO 256GB (MGMP3VN/A),Xám,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A14 Bionic,6,256,ios
 98,iPhone, iPhone 12 Pro  ,0.0,0,28990000,34990000,Mới,IPHONE 12 PRO 256GB (MGMT3VN/A),Xanh,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A14 Bionic,6,256,ios
 99,Vivo, Vivo Y72 5G  ,0.0,0,7390000,7990000,Mới,Y72 5G (V2041),Đen,Vivo,Trung Quốc,12 tháng,Nguyễn Kim,Mediatek Dimensity 700,8,128,android
-100,iPhone, iPhone 12 6 ,0.0,0,20190000,24990000,Mới,iPhone 12 64GB,Đen,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
-101,iPhone, iPhone 12 6 Xanh lá,0.0,0,20190000,24990000,Mới,iPhone 12 64GB,Xanh Lá,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
+100,iPhone, iPhone 12  ,0.0,0,20190000,24990000,Mới,iPhone 12 64GB,Đen,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
+101,iPhone, iPhone 12  Xanh lá,0.0,0,20190000,24990000,Mới,iPhone 12 64GB,Xanh Lá,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
 102,Nokia, Nokia C20  ,0.0,0,2190000,2390000,Mới,NOKIAC20,Vàng,Nokia,Trung Quốc,12 tháng,Nguyễn Kim,SC9863A 8 nhân | 1.6GHz,2,32,android
 103,Oppo, OPPO Reno6 Z 5G  ,0.0,0,8790000,9490000,Mới,RENO6Z5G (CPH2237),Bạc,OPPO,Trung Quốc,12 tháng,Nguyễn Kim,"MTK Dimensity 800U 5G, tối đa 2.4GHz",8,128,android
 104,Vivo, Vivo Y72 5G  ,0.0,0,7390000,7990000,Mới,Y72 5G (V2041),Xanh Hồng,Vivo,Trung Quốc,12 tháng,Nguyễn Kim,Mediatek Dimensity 700,8,128,android
 105,iPhone, iPhone 12  ,0.0,0,21990000,26990000,Mới,iPhone 12 128GB,Đen,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
 106,Vivo, Vivo V20 () Xanh hồng,0.0,0,7490000,8490000,Mới,V20,Xanh Hồng,Vivo,Trung Quốc,12 Tháng,Nguyễn Kim,Qualcomm® Snapdragon™ 720G,8,128,android
 107,iPhone, iPhone 12 Pro  ,0.0,0,27990000,30990000,Mới,IPHONE12 PRO 128GB (MGML3VN/A),Bạc,Apple,Trung Quốc,12 tháng,Nguyễn Kim,Apple A14 Bionic,6,128,ios
-108,iPhone, iPhone 12 6 ,0.0,0,20190000,24990000,Mới,iPhone 12 64GB,Trắng,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
+108,iPhone, iPhone 12  ,0.0,0,20190000,24990000,Mới,iPhone 12 64GB,Trắng,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
 109,iPhone, iPhone 12  ,0.0,0,21990000,26990000,Mới,iPhone 12 128GB,Đỏ,Apple,Trung Quốc,12 Tháng,Nguyễn Kim,Apple A14 Bionic,4,128,ios
