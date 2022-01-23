@@ -11,7 +11,7 @@ img:hover {
 
 div.gallery {
   border: 2px solid #007f3f;
-  border-radius: 3% 3% 3% 3%;
+  border-radius:3% 3% 3% 3%;
 }
 
 div.gallery:hover {

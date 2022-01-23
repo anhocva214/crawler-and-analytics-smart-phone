@@ -65,8 +65,8 @@ export default function Home() {
       </div>
       <div className="responsive">
         <div className="gallery">
-          <a target="_blank" href="https://week.w3spaces.com/Python/view_count.png">
-            <img src="https://week.w3spaces.com/Python/view_count.png" width={600} height={400} />
+          <a target="_blank" href="https://week.w3spaces.com/Python/view_count-copy.png">
+            <img src="https://week.w3spaces.com/Python/view_count-copy.png" width={600} height={400} />
           </a>
           <div className="desc">View_count</div>
         </div>
